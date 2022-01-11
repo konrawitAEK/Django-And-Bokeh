@@ -1,0 +1,11 @@
+python -m venv virtual_env
+source virtual_env/bin/activate
+(virtual_env) : $ bokeh_pro claudiaacerra$
+(virtual_env) : $ pip install django
+(virtual_env) : $ pip install bokeh
+
+(virtual_env) : $ django-admin startproject graphs
+(virtual_env) : $ cd graphs
+(virtual_env) : $ python manage.py migrate
+(virtual_env) : $ python manage.py createsuperuser --username=admin
+(virtual_env) : $ python manage.py startapp bokehApp
