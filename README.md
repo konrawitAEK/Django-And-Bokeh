@@ -13,3 +13,4 @@ https://bigdata.go.th/big-data-101/data-scraping-part-2/
 https://www.youtube.com/watch?v=X2EpWtIYIjY
 
 https://www.fusioncharts.com/ รูปแบบ
+https://www.highcharts.com/demo รูปแบบ
